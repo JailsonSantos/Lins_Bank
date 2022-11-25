@@ -50,7 +50,7 @@
 
 <h2 align="left" id="link-online">Versão Online</h2>
 
-- [Lins Bank](https://lins-bank.vercel.app/)
+- [LinsBank](https://lins-bank.vercel.app/)
 
 
 https://lins-bank.vercel.app/
