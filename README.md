@@ -35,7 +35,7 @@
 
 <h3 align="left" id="layout">Versão Mobile</h3>
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/11697713/203973518-3c84cefc-a454-4be3-bc58-99b3d033461c.gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/11697713/203974549-48ba1431-0eff-4b9a-b3c9-f0015ab8f842.gif)
 
 <h3 align="left" id="tecnologias">🛠 Tecnologias</h3>
 <p align="justify">As seguintes Tecnologias e bibliotecas que foram usadas na construção do projeto</p>
